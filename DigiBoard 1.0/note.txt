@@ -1,0 +1,26 @@
+26
+===================================
+	How To Use DigitalBoard
+===================================
+
+Developer here to give you instruction
+to how to use this app
+
+
+1. Select the option you want to do
+
+2. If you choose "Sign an event" option
+pick a number from 11 - 100 follow the 
+instruction then the program 
+will automatically save your event 
+
+3. If you choose "Search an event"
+just input the ID of specific event
+(list of event by developer on the other notes)
+
+4. If you choose "Notes" then you're reading this
+
+5. If you choose "Quit" it mean you quit the app
+
+6. That's all of feature that can this app do
+just have some fun with it
